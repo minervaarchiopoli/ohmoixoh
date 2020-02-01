@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuseghuana.andyylzhang.com/sitemap.xml
